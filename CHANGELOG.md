@@ -9,7 +9,7 @@
 * Improved PUSH handling in Chrome
 * [Safari] Voice record is now available
 * [Safari] Improved downloads (files now have names and download automatically)
-
+"lng_switch_to_this" = "Переключиться на русский";
 
 ### 0.6.1
 * Fixed networking problems
